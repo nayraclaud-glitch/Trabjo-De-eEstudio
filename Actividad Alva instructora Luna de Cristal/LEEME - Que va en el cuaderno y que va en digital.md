@@ -1,6 +1,8 @@
 # Actividad de reflexión – Luna de Cristal
 **Instructora:** Alba Rocío Cuchigay Rosas · **Aprendiz:** Eimer Sebastián Rojas Cañas
 
+> **Confirmado con la instructora:** todo va a mano en el cuaderno, menos el **Design Thinking**, que es digital (archivo 5). Para copiar usa los archivos 1 y 6. Los archivos 2, 3 y 4 sirven de apoyo para estudiar.
+
 ## Qué archivo corresponde a cada parte
 
 | # | Archivo | Formato | Parte de la guía |
@@ -10,6 +12,7 @@
 | 3 | `3_Paso3_Respuestas_argumentadas.docx` | Word | Paso 3: **producto parcial "Respuestas argumentadas"** (las 6 preguntas) |
 | 4 | `4_Paso4_Visual_Thinking.pptx` | PowerPoint | Paso 4: **estrategia visual** con diagramas, íconos, flechas y conclusión. Tiene notas del orador para la exposición |
 | 5 | `5_Design_Thinking_Luna_de_Cristal.pptx` | PowerPoint | Apoyo para exponer: las 5 etapas del Design Thinking (empatizar, definir, idear, prototipar, evaluar). Tiene notas del orador |
+| 6 | `6_CUADERNO_Parte2_Lo_que_falta.docx` | Word, **para copiar a mano** | Matriz de análisis (Paso 2), las 6 preguntas (Paso 3) y Visual Thinking para dibujar (Paso 4) |
 | – | `Diagrama_causa_efecto_...png` y `Mapa_visual_ejemplo_...png` | Imágenes | Modelos para dibujar y para usar en la presentación |
 
 **Por qué cada formato:** la guía no dice el formato de cada parte. Una matriz es una tabla, así que va en Excel. Las respuestas son texto, así que van en Word. El Visual Thinking es para mostrar y exponer, así que va en PowerPoint. **Confírmalo con la instructora Alba** por si ella pide otro formato.
