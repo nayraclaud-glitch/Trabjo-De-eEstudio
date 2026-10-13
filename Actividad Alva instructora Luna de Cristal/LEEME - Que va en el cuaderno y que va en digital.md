@@ -1,59 +1,38 @@
 # Actividad de reflexión – Luna de Cristal
 **Instructora:** Alva · **Aprendiz:** Sebastián
 
-## Qué hay en esta carpeta
+## Qué archivo corresponde a cada parte
 
-| Archivo | Qué es | Para qué sirve |
-|---|---|---|
-| `Actividad_Reflexion_Luna_de_Cristal.docx` | Documento completo en Word: portada, pasos 1, 2, 3 y 4 | Es el trabajo escrito para entregar |
-| `Diagrama_causa_efecto_Luna_de_Cristal.png` | Diagrama de Ishikawa (espina de pescado) | Paso 2: ya va dentro del Word y te sirve de modelo para dibujarlo |
-| `Mapa_visual_ejemplo_Luna_de_Cristal.png` | Ejemplo de mapa de Visual Thinking | Paso 4: modelo para hacerlo a mano |
-| Este archivo (LEEME) | Guía de qué va dónde | Para que no te pierdas |
+| # | Archivo | Formato | Parte de la guía |
+|---|---|---|---|
+| 1 | `1_CUADERNO_Lo_que_va_a_mano.docx` | Word, **para copiar a mano** | Paso 1 (realidad de la empresa), diagrama causa-efecto para dibujar y conclusión personal |
+| 2 | `2_Paso2_Matriz_de_analisis.xlsx` | Excel | Paso 2: **producto parcial "Matriz de análisis"** (hoja 1) y el causa-efecto en tabla (hoja 2) |
+| 3 | `3_Paso3_Respuestas_argumentadas.docx` | Word | Paso 3: **producto parcial "Respuestas argumentadas"** (las 6 preguntas) |
+| 4 | `4_Paso4_Visual_Thinking.pptx` | PowerPoint | Paso 4: **estrategia visual** con diagramas, íconos, flechas y conclusión. Tiene notas del orador para la exposición |
+| – | `Diagrama_causa_efecto_...png` y `Mapa_visual_ejemplo_...png` | Imágenes | Modelos para dibujar y para usar en la presentación |
 
----
+**Por qué cada formato:** la guía no dice el formato de cada parte. Una matriz es una tabla, así que va en Excel. Las respuestas son texto, así que van en Word. El Visual Thinking es para mostrar y exponer, así que va en PowerPoint. **Confírmalo con la instructora Alva** por si ella pide otro formato.
 
-## Qué va en el CUADERNO (a mano)
+## En el cuaderno, a mano
 
-> Confirma con la instructora Alva qué pide exactamente en el cuaderno. Esto es lo más común en el SENA.
+1. Título y fecha.
+2. **Paso 1** resumido con tus palabras (los 6 puntos).
+3. **Diagrama causa-efecto** dibujado como espina de pescado, con colores.
+4. **Conclusión personal**, escrita por ti.
 
-1. **Título y fecha:** "Actividad de reflexión – Diagnóstico de Luna de Cristal".
-2. **Paso 1 en resumen:** los 6 puntos (descripción, actividad económica, procesos, fortalezas, problemas y oportunidades), con 2 o 3 viñetas cada uno. Cópialos del Word, **pero resumidos y con tus palabras**.
-3. **Diagrama causa-efecto dibujado** (Paso 2): la espina de pescado con las 6 categorías. Usa el PNG como modelo.
-4. **Visual Thinking** (Paso 4), que es lo más importante a mano:
-   - En el centro: "Luna de Cristal" con un dibujo de una luna.
-   - 4 ramas con flechas: **¿Quiénes somos?**, **¿Qué falla?**, **Ideas creativas** y **Plan de 30 días**.
-   - Abajo: **Mi conclusión**.
-   - Usa **colores**, **íconos sencillos** (tienda, lupa, bombillo, diana), **flechas** y **pocas palabras**. Visual Thinking significa dibujar más y escribir menos.
-5. **Conclusión personal**, escrita por ti.
-
-## Qué va en DIGITAL (Word)
-
-- **Paso 1:** descripción completa de la empresa y tabla de procesos.
-- **Paso 2:** diagrama causa-efecto y **matriz de análisis**, que es el *producto parcial* que pide la guía.
-- **Paso 3:** las 6 respuestas argumentadas, otro *producto parcial*.
-- **Paso 4:** el mapa visual. Lo ideal es reemplazar la imagen de ejemplo por una **foto de tu Visual Thinking hecho a mano**.
-
-## Evidencias que conviene agregar (suman puntos)
-
-- Fotos del local: fachada, vitrina, interior.
-- Foto o captura del certificado de Cámara de Comercio. **Tapa los números de documento** si lo vas a compartir.
-- Fotos de las páginas del cuaderno.
-- Si ya empezaste el plan: capturas de WhatsApp Business o del perfil de Google Maps.
-
----
+> Si la instructora pide el Visual Thinking a mano, dibuja en el cuaderno o en una cartulina el mapa de `Mapa_visual_ejemplo_...png`.
 
 ## Antes de entregar: lista de chequeo
 
-- [ ] Completar todo lo que está entre **[corchetes]** en el Word: programa, ficha, apellidos, dirección, nombre de tu mamá, año de apertura y empleados.
+- [ ] Completar todo lo que está entre **[corchetes]**: programa, ficha, apellidos, dirección, nombre de tu mamá, año de apertura y empleados. Están en los Word y en la portada del PowerPoint.
 - [ ] Verificar los **códigos CIIU** (4771 y 4773) en el RUT o en el certificado de Cámara de Comercio.
-- [ ] Borrar las **notas amarillas** del Word (son ayudas para ti, no van en la entrega).
-- [ ] Revisar que cada dato sea **real**. Si algo no aplica a Luna de Cristal, cámbialo.
-- [ ] **Reescribir la conclusión personal con tus palabras.** También conviene ajustar las respuestas del Paso 3 a tu forma de hablar, porque te las pueden preguntar en la sustentación.
-- [ ] Hacer el Visual Thinking a mano, tomarle foto y ponerla en el Word.
+- [ ] Borrar las **notas amarillas** de los Word (son ayudas para ti).
+- [ ] Revisar que todos los datos sean reales y cambiar lo que no aplique.
+- [ ] **Escribir la conclusión con tus palabras** y ajustar las respuestas del Paso 3 a tu forma de hablar, porque te las pueden preguntar en la sustentación.
 
-## Para la sustentación (por si te preguntan)
+## Para la sustentación
 
 - **Problema principal:** las ventas están por debajo de su potencial porque casi nadie conoce la tienda, no porque el producto sea malo.
-- **Causa más fuerte:** poca visibilidad (redes inactivas y no aparece en Google Maps) y falta de medición.
+- **Causa más fuerte:** poca visibilidad (redes inactivas, no aparece en Google Maps) y falta de medición.
 - **Solución:** visibilidad gratis (Maps, WhatsApp Business, contenido), promociones creativas (Jueves de Luna, Ven con tu amiga, muestras) y medir todo cada día.
-- **Innovación:** usar inteligencia artificial gratuita para fotos y videos profesionales sin pagar agencia.
+- **Innovación:** usar inteligencia artificial gratuita para fotos y videos profesionales.
