@@ -9,6 +9,7 @@
 | 2 | `2_Paso2_Matriz_de_analisis.xlsx` | Excel | Paso 2: **producto parcial "Matriz de análisis"** (hoja 1) y el causa-efecto en tabla (hoja 2) |
 | 3 | `3_Paso3_Respuestas_argumentadas.docx` | Word | Paso 3: **producto parcial "Respuestas argumentadas"** (las 6 preguntas) |
 | 4 | `4_Paso4_Visual_Thinking.pptx` | PowerPoint | Paso 4: **estrategia visual** con diagramas, íconos, flechas y conclusión. Tiene notas del orador para la exposición |
+| 5 | `5_Design_Thinking_Luna_de_Cristal.pptx` | PowerPoint | Apoyo para exponer: las 5 etapas del Design Thinking (empatizar, definir, idear, prototipar, evaluar). Tiene notas del orador |
 | – | `Diagrama_causa_efecto_...png` y `Mapa_visual_ejemplo_...png` | Imágenes | Modelos para dibujar y para usar en la presentación |
 
 **Por qué cada formato:** la guía no dice el formato de cada parte. Una matriz es una tabla, así que va en Excel. Las respuestas son texto, así que van en Word. El Visual Thinking es para mostrar y exponer, así que va en PowerPoint. **Confírmalo con la instructora Alba** por si ella pide otro formato.
