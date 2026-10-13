@@ -32,7 +32,7 @@
 
 ## Para la sustentación
 
-- **Problema principal:** las ventas están por debajo de su potencial porque casi nadie conoce la tienda, no porque el producto sea malo.
-- **Causa más fuerte:** poca visibilidad (redes inactivas, no aparece en Google Maps) y falta de medición.
+- **Problema principal:** las ventas están por debajo de su potencial por el poco alcance digital y los procesos manuales, no porque el producto sea malo (el 93,3 % de las clientas la recomienda).
+- **Causa más fuerte:** bajo alcance en redes, no aparece en Google Maps y todo se maneja a mano (sin POS ni inventario sistematizado).
 - **Solución:** visibilidad gratis (Maps, WhatsApp Business, contenido), promociones creativas (Jueves de Luna, Ven con tu amiga, muestras) y medir todo cada día.
 - **Innovación:** usar inteligencia artificial gratuita para fotos y videos profesionales.
