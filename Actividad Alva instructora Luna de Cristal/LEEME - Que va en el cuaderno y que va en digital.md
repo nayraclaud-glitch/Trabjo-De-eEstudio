@@ -1,5 +1,5 @@
 # Actividad de reflexión – Luna de Cristal
-**Instructora:** Alva · **Aprendiz:** Sebastián
+**Instructora:** Alba Rocío Cuchigay Rosas · **Aprendiz:** Eimer Sebastián Rojas Cañas
 
 ## Qué archivo corresponde a cada parte
 
@@ -11,7 +11,7 @@
 | 4 | `4_Paso4_Visual_Thinking.pptx` | PowerPoint | Paso 4: **estrategia visual** con diagramas, íconos, flechas y conclusión. Tiene notas del orador para la exposición |
 | – | `Diagrama_causa_efecto_...png` y `Mapa_visual_ejemplo_...png` | Imágenes | Modelos para dibujar y para usar en la presentación |
 
-**Por qué cada formato:** la guía no dice el formato de cada parte. Una matriz es una tabla, así que va en Excel. Las respuestas son texto, así que van en Word. El Visual Thinking es para mostrar y exponer, así que va en PowerPoint. **Confírmalo con la instructora Alva** por si ella pide otro formato.
+**Por qué cada formato:** la guía no dice el formato de cada parte. Una matriz es una tabla, así que va en Excel. Las respuestas son texto, así que van en Word. El Visual Thinking es para mostrar y exponer, así que va en PowerPoint. **Confírmalo con la instructora Alba** por si ella pide otro formato.
 
 ## En el cuaderno, a mano
 
@@ -24,8 +24,8 @@
 
 ## Antes de entregar: lista de chequeo
 
-- [ ] Completar todo lo que está entre **[corchetes]**: programa, ficha, apellidos, dirección, nombre de tu mamá, año de apertura y empleados. Están en los Word y en la portada del PowerPoint.
-- [ ] Verificar los **códigos CIIU** (4771 y 4773) en el RUT o en el certificado de Cámara de Comercio.
+- [ ] Completar el **número de ficha** (portadas de los Word).
+- [ ] Los datos vienen del informe del proyecto (entrevista y encuestas). Revisa que estén bien.
 - [ ] Borrar las **notas amarillas** de los Word (son ayudas para ti).
 - [ ] Revisar que todos los datos sean reales y cambiar lo que no aplique.
 - [ ] **Escribir la conclusión con tus palabras** y ajustar las respuestas del Paso 3 a tu forma de hablar, porque te las pueden preguntar en la sustentación.
